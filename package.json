@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-asgmnt",
+  "version": "1.0.0",
+  "description": "\"NodeJS Course Assigment - Express\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirpavk/nodejs-express-asgmnt.git"
+  },
+  "author": "Vladimir Pavkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirpavk/nodejs-express-asgmnt/issues"
+  },
+  "homepage": "https://github.com/vladimirpavk/nodejs-express-asgmnt#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
